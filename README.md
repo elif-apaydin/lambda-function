@@ -3,3 +3,9 @@ In this repository, there are codes written in Python for the AWS Lambda Functio
 There are also codes to run Lambda Funtions with Terraform.
 
 ![](src/python-lambda.jpeg)
+
+### Parts of this repository ###
+
+* [ec2-state-change](https://github.com/elif-apaydin/lambda-function/blob/main/ec2-state-change/lambda_function/lambda_function.py)
+* [iam-state-change](https://github.com/elif-apaydin/lambda-function/blob/main/iam-state-change/lambda_function/lambda_function.py)
+* [rds-state-change](https://github.com/elif-apaydin/lambda-function/blob/main/rds-state-change/lambda_function/lambda_function.py)
